@@ -1,0 +1,4 @@
+SINUMERIK-ICONS
+===============
+
+Sinumerik Icons
